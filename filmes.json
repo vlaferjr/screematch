@@ -1,0 +1,26 @@
+[
+  {
+    "Title": "Batman",
+    "Year": 0,
+    "IncluiPlano": false,
+    "SomaAvaliacoes": 0.0,
+    "TotalAvaliacoes": 0,
+    "DuracaoMinutos": 126
+  },
+  {
+    "Title": "The Avengers",
+    "Year": 0,
+    "IncluiPlano": false,
+    "SomaAvaliacoes": 0.0,
+    "TotalAvaliacoes": 0,
+    "DuracaoMinutos": 143
+  },
+  {
+    "Title": "The Godfather",
+    "Year": 0,
+    "IncluiPlano": false,
+    "SomaAvaliacoes": 0.0,
+    "TotalAvaliacoes": 0,
+    "DuracaoMinutos": 175
+  }
+]
